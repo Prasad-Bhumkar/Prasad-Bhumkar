@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm [Prasad Bhumkar](https://Prasad-Bhumkar.github.io/Me.io/)
 
 ### A passionate Full Stack Developer from Pune, India 🇮🇳
@@ -33,6 +35,7 @@
 
 Credit: [Prasad Bhumkar](https://github.com/Prasad-Bhumkar)
 
+</div>
 
 <!---
 Prasad-Bhumkar/Prasad-Bhumkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
