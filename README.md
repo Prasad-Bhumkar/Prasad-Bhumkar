@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi , I'm [Prasad Bhumkar](https://Prasad-Bhumkar.github.io/Me.io/)
+# Hi 👋, I'm [Prasad Bhumkar](https://Prasad-Bhumkar.github.io/Me.io/)
 
 ### A passionate Full Stack Developer from Pune, India 🇮🇳
 
@@ -10,7 +10,7 @@
 
 ![GIF](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
 
- I’m currently learning Front End Development.
+🌱 I’m currently learning Front End Development.
 
 ### Technologies I am Working On
 
@@ -19,8 +19,10 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![SQL](https://img.shields.io/badge/-SQL-3182CE?style=flat-square&logo=sql&logoColor=white&logoPosition=left)](https://www.w3schools.com/sql/)
-[![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)  ###  Connect with me:
+[![SQL](https://img.shields.io/badge/-SQL-696969?style=flat-square&logo=sql&logoColor=white&logoPosition=left)](https://www.w3schools.com/sql/)
+[![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
+
+### 🤝 Connect with me:
 
 [![LinkedIn](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/)
 [![GitHub](https://img.icons8.com/doodle/40/000000/github--v1.png)](https://github.com/Prasad-Bhumkar)
