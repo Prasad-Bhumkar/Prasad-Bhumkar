@@ -4,8 +4,6 @@
 
 ### A passionate Full Stack Developer from Pune, India 🇮🇳
 
-
-![GitHubcommitactivity](https://img.shields.io/github/commit-activity/t/Prasad-bhumkar/prasad-bhumkar)
 ![Profile views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Follow on Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prasad.bhumkar_official/)
@@ -21,7 +19,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![SQL](https://img.shields.io/badge/-SQL-696969?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![SQL](https://img.shields.io/badge/-SQL-grey?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
 
 ### 🤝 Connect with me:
