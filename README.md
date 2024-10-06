@@ -19,7 +19,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![C](https://img.shields.io/badge/-C programming-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
 
 ### 🤝 Connect with me:
 
