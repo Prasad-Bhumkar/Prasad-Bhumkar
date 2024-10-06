@@ -35,6 +35,12 @@
 [![Twitter](https://img.icons8.com/doodle/1x/twitter-squared--v2.png)](https://twitter.com/@bhumkar_pr89871)
 [![YouTube](https://img.icons8.com/doodle/1x/youtube--v2.png)](https://www.youtube.com/@youtubemafia9893?sub_confirmation=1)
 
+### 📸 Follow me on Instagram
+
+<a href="https://www.instagram.com/prasad.bhumkar_official/">
+  <img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="Instagram" width="40" height="40">
+</a>
+
 ---
 
 Credit: [Prasad Bhumkar](https://github.com/Prasad-Bhumkar)
