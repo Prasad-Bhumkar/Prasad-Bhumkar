@@ -20,7 +20,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
 [![SQL](https://img.shields.io/badge/-SQL-696969?style=flat-square&logo=sql&logoColor=white&logoPosition=left)](https://www.w3schools.com/sql/)
-[![C](https://img.shields.io/badge/-C Programming-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
+[![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
 
 ### 🤝 Connect with me:
 
