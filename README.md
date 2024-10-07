@@ -6,6 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)
 
+![Commits](https://github-readme-stats.vercel.app/api/stats?username={your_username}&theme=blue-green)
 
 
 ![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-bhumkar&theme=blue-green)
