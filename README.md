@@ -8,8 +8,10 @@
 
 ![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-bhumkar&theme=blue-green)
 
-![Commits](https://img.shields.io/badge/Commits-https://github-readme-stats.vercel.app/api/stats?username=prasad-bhumkar&theme=blue-green?style=for-the-badge)
-
+<div style="display: flex; align-items: center; padding: 5px; border: 1px solid #ddd; border-radius: 4px;">
+  <img src="https://img.shields.io/badge/Commits-blue" alt="Commits" style="width: auto; height: 20px; margin-right: 5px;">
+  <span>Total Commits</span>
+</div>
 
 [![Follow on Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prasad.bhumkar_official/)
 
