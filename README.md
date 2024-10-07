@@ -8,12 +8,6 @@
 
 ![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-bhumkar&theme=blue-green)
 
-<div style="display: flex; align-items: center; padding: 5px; border: 1px solid #ddd; border-radius: 4px;">
-  <img src="https://img.shields.io/badge/Commits-blue" alt="Commits" style="width: auto; height: 20px; margin-right: 5px;">
-  <span>Total Commits</span>
-</div>
-
-[![Follow on Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prasad.bhumkar_official/)
 
 ![GIF](https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=6c09b952taqzjc1jqwyph6obaa07by7bqz3g6xgy7umhsb4m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
@@ -26,7 +20,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
+[![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
 
 ### 🤝 Connect with me:
 
@@ -50,3 +44,5 @@
 Credit: [Prasad Bhumkar](https://github.com/Prasad-Bhumkar)
 
 </div>
+
+
