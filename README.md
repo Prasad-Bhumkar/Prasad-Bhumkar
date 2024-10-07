@@ -21,7 +21,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
 [![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
-[![SQL](https://img.shields.io/badge/--60B0D0?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![SQL](https://img.shields.io/badge/-SQL-60B0D0?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 ### 🤝 Connect with me:
 
@@ -37,7 +37,7 @@
 ### 📸 Follow me on Instagram
 
 <a href="https://www.instagram.com/prasad.bhumkar_official/">
-  <img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="Instagram" width="40" height="40">
+  <img src="https://img.shields.io/badge/-SQL-60B0D0?style=flat-square&logo=sql&logoColor=white" alt="Instagram" width="60" height="60">
 </a>
 
 ---
