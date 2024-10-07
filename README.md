@@ -21,6 +21,7 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
 [![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
+[![SQL](https://img.shields.io/badge/-SQL-60B0D0?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 ### 🤝 Connect with me:
 
@@ -28,7 +29,7 @@
 [![GitHub](https://img.icons8.com/doodle/40/000000/github--v1.png)](https://github.com/Prasad-Bhumkar)
 [![Stack Overflow](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png)](https://stackoverflow.com/users/27444090/prasad-bhumkar)
 <a href="https://dev.to/prasad_bhumkar_f4e5cf4f5a" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" width="40" height="40" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" width="40" height="40" alt="Dev.to"/>
 </a>
 [![Twitter](https://img.icons8.com/doodle/1x/twitter-squared--v2.png)](https://twitter.com/@bhumkar_pr89871)
 [![YouTube](https://img.icons8.com/doodle/1x/youtube--v2.png)](https://www.youtube.com/@youtubemafia9893?sub_confirmation=1)
@@ -36,7 +37,7 @@
 ### 📸 Follow me on Instagram
 
 <a href="https://www.instagram.com/prasad.bhumkar_official/">
-  <img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="Instagram" width="40" height="40">
+  <img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="Instagram" width="40" height="40">
 </a>
 
 ---
@@ -44,5 +45,3 @@
 Credit: [Prasad Bhumkar](https://github.com/Prasad-Bhumkar)
 
 </div>
-
-
