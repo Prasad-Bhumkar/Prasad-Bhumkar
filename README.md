@@ -6,11 +6,11 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)
 
-![Commits](https://github-readme-stats.vercel.app/api/stats?username={your_username}&theme=blue-green)
-
-
 ![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-bhumkar&theme=blue-green)
 
+![Commits](https://github-readme-stats.vercel.app/api/stats?username=prasad-bhumkar&theme=blue-green)
+
+[![Follow on Instagram](https://img.shields.io/badge/-Follow%20on%20Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prasad.bhumkar_official/)
 
 ![GIF](https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=6c09b952taqzjc1jqwyph6obaa07by7bqz3g6xgy7umhsb4m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 
