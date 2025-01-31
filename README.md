@@ -1,47 +1,82 @@
 <div align="center">
 
-# Hi 👋, I'm [Prasad Bhumkar](https://Prasad-Bhumkar.github.io/Me.io/)
+# Hi 👋, I'm Prasad Bhumkar
 
-### A passionate Full Stack Developer from Pune, India 🇮🇳
+A passionate Java Full Stack Developer from Pune, India 🇮🇳
 
-![Profile views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)
+[![Profile views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Prasad-Bhumkar)
 
-![GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-bhumkar&theme=blue-green)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-Bhumkar&show_icons=true&theme=radical)](https://github.com/Prasad-Bhumkar)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasad-Bhumkar&theme=radical)](https://github.com/Prasad-Bhumkar)
 
-![GIF](https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.gif?cid=6c09b952taqzjc1jqwyph6obaa07by7bqz3g6xgy7umhsb4m&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Bhumkar&layout=compact&theme=radical)](https://github.com/Prasad-Bhumkar)
 
-🌱 I’m currently learning Front End Development.
+</div>
 
-### Technologies I am Working On
+## 🚀 About Me
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)](https://jquery.com/)
-[![C](https://img.shields.io/badge/-C-159CFF?style=flat-square&logo=c&logoColor=white)](https://www.tutorialspoint.com/cprogramming/)
-[![SQL](https://img.shields.io/badge/-SQL-60B0D0?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+I'm a Full Stack Developer specializing in Java and modern web technologies. I'm passionate about building scalable applications and microservices architecture. Currently focused on expanding my full-stack capabilities with a strong interest in both front-end and back-end development.
 
-### 🤝 Connect with me:
+## 💻 Tech Stack
 
-[![LinkedIn](https://img.icons8.com/doodle/40/000000/linkedin--v2.png)](https://www.linkedin.com/in/)
-[![GitHub](https://img.icons8.com/doodle/40/000000/github--v1.png)](https://github.com/Prasad-Bhumkar)
-[![Stack Overflow](https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png)](https://stackoverflow.com/users/27444090/prasad-bhumkar)
-<a href="https://dev.to/prasad_bhumkar_f4e5cf4f5a" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" width="40" height="40" alt="Dev.to"/>
-</a>
-[![Twitter](https://img.icons8.com/doodle/1x/twitter-squared--v2.png)](https://twitter.com/@bhumkar_pr89871)
-[![YouTube](https://img.icons8.com/doodle/1x/youtube--v2.png)](https://www.youtube.com/@youtubemafia9893?sub_confirmation=1)
+### Languages & Frameworks
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 
-### 📸 Follow me on Instagram
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-<a href="https://www.instagram.com/prasad.bhumkar_official/">
-  <img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png" alt="Instagram" width="40" height="40">
-</a>
+### Tools & Technologies
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
+[![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+
+## 🎯 Featured Projects
+
+### Calculator App
+A modern calculator application with advanced mathematical operations.
+- **Tech Stack:** HTML, CSS, JavaScript
+- **Features:** Basic arithmetic, scientific functions, keyboard support
+- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/calculator)
+
+### Weather App
+Real-time weather information application with location-based updates.
+- **Tech Stack:** HTML, CSS, JavaScript, Weather API
+- **Features:** Current weather, location search, responsive design
+- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/weather-app)
+
+### Portfolio Website
+Personal portfolio website built with modern web technologies.
+- **Tech Stack:** HTML5, CSS3, JavaScript
+- **Features:** Responsive design, project showcase, contact form
+- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/portfolio)
+
+### Todo List
+Interactive task management application with data persistence.
+- **Tech Stack:** HTML, CSS, JavaScript, Local Storage
+- **Features:** Add/delete tasks, mark as complete, data persistence
+- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/todo-list)
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-bhumkar)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasad-Bhumkar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadbhumkar@gmail.com)
 
 ---
 
-Credit: [Prasad Bhumkar](https://github.com/Prasad-Bhumkar)
+<div align="center">
+
+### Thanks for visiting! 👋
 
 </div>
