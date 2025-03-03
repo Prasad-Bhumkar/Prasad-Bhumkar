@@ -16,7 +16,7 @@ A passionate Java Full Stack Developer from Pune, India 🇮🇳
 
 ## 🚀 About Me
 
-I'm a Full Stack Developer specializing in Java and modern web technologies. I'm passionate about building scalable applications and microservices architecture. Currently focused on expanding my full-stack capabilities with a strong interest in both front-end and back-end development.
+I'm a Full Stack Developer specializing in Java and modern web technologies. I'm passionate about building scalable applications and microservices architecture. Currently focused on expanding my full-stack capabilities with a strong interest in both front-end and back-end development. I enjoy collaborating with teams to create innovative solutions and continuously learning new technologies.
 
 ## 💻 Tech Stack
 
