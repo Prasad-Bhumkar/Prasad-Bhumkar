@@ -31,29 +31,12 @@ I'm a Full Stack Developer specializing in Java and modern web technologies. I'm
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### Tools & Technologies
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org/)
-[![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 
 ## 🎯 Featured Projects
-
-### Calculator App
-A modern calculator application with advanced mathematical operations.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Basic arithmetic, scientific functions, keyboard support
-- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/calculator)
-
-### Weather App
-Real-time weather information application with location-based updates.
-- **Tech Stack:** HTML, CSS, JavaScript, Weather API
-- **Features:** Current weather, location search, responsive design
-- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/weather-app)
 
 ### Portfolio Website
 Personal portfolio website built with modern web technologies.
@@ -61,11 +44,6 @@ Personal portfolio website built with modern web technologies.
 - **Features:** Responsive design, project showcase, contact form
 - [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/portfolio)
 
-### Todo List
-Interactive task management application with data persistence.
-- **Tech Stack:** HTML, CSS, JavaScript, Local Storage
-- **Features:** Add/delete tasks, mark as complete, data persistence
-- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/todo-list)
 
 ## 📫 Connect With Me
 
