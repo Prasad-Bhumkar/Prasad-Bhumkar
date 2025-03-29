@@ -1,60 +1,41 @@
 <div align="center">
 
-# Hi 👋, I'm Prasad Bhumkar
+# Hi 👋, I'm Prasad Bhumkar  
+**Java Full Stack Engineer | Spring Boot Specialist | Cloud-Native Developer**  
+📍 Pune, India 🇮🇳 | 🔭 Open to Collaborations  
 
-A passionate Java Full Stack Developer from Pune, India 🇮🇳
+[![Visitors](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Prasad-Bhumkar)
+[![Repos](https://badges.pufler.dev/repos/Prasad-Bhumkar?color=blue&style=flat)](https://github.com/Prasad-Bhumkar?tab=repositories)
+[![Years](https://badges.pufler.dev/years/Prasad-Bhumkar)](https://badges.pufler.dev)
 
-[![Profile views](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Prasad-Bhumkar)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-Bhumkar&show_icons=true&theme=radical)](https://github.com/Prasad-Bhumkar)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prasad-Bhumkar&theme=radical)](https://github.com/Prasad-Bhumkar)
-
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Bhumkar&layout=compact&theme=radical)](https://github.com/Prasad-Bhumkar)
-
-</div>
-
-## 🚀 About Me
-
-I'm a Full Stack Developer specializing in Java and modern web technologies. I'm passionate about building scalable applications and microservices architecture. Currently focused on expanding my full-stack capabilities with a strong interest in both front-end and back-end development.
-
-## 💻 Tech Stack
-
-### Languages & Frameworks
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-
-### Databases
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-
-### Tools & Technologies
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-
-## 🎯 Featured Projects
-
-### Portfolio Website
-Personal portfolio website built with modern web technologies.
-- **Tech Stack:** HTML5, CSS3, JavaScript
-- **Features:** Responsive design, project showcase, contact form
-- [View Repository](https://github.com/Prasad-Bhumkar/projects/tree/main/portfolio)
-
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prasad-bhumkar)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasad-Bhumkar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prasadbhumkar@gmail.com)
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prasad-Bhumkar&show_icons=true&theme=radical&hide_title=true)](https://github.com/Prasad-Bhumkar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasad-Bhumkar&layout=compact&theme=radical&hide=html)](https://github.com/Prasad-Bhumkar)
 
 </div>
+
+## 🛠️ Technical Arsenal
+
+### Core Competencies
+**Backend Architecture**  
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![JPA/Hibernate](https://img.shields.io/badge/JPA-59666C?logo=hibernate&logoColor=white)](https://hibernate.org)
+[![REST API](https://img.shields.io/badge/REST-02569B?logo=rest&logoColor=white)](https://restfulapi.net)
+
+**Frontend Development**  
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+
+**Data Layer**  
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+**DevOps & Tools**  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](https://git-scm.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](https://www.jenkins.io)
+
+## 🚀 Featured Projects
+
+### Portfolio Architecture Suite
+**Full Stack Implementation with CI/CD Pipeline**
