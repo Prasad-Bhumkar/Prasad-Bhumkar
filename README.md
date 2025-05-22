@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Prasad Bhumkar  
-**Java Full Stack Engineer | Spring Boot Specialist | Cloud-Native Developer**  
+**Java Full Stack Engineer | Spring Boot**  
 📍 Pune, India 🇮🇳 | 🔭 Open to Collaborations  
 
 [![Visitors](https://komarev.com/ghpvc/?username=Prasad-Bhumkar&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/Prasad-Bhumkar)
